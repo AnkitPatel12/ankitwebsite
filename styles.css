@@ -1,0 +1,26 @@
+/* Requirement Point 1: Use a CSS selector to apply style(s) to at least one HTML tag. */
+p {
+    color: blue;
+}
+
+/* Requirement Point 2: Create at least one class, apply it to at least two elements, and style it. */
+.styled-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Requirement Point 3: Create at least one id, apply it to an element, and style it. */
+#section1 {
+    background-color: lightgrey;
+}
+
+/* Requirement Point 6: Use a CSS selector to change the color of <a> when you hover the cursor over it. */
+a:hover {
+    color: red;
+}
+
+/* Requirement Point 7: Change at least two box model properties of any tag, class, or id. */
+.sample-image {
+    margin: 20px;
+    border: 5px solid black;
+}
